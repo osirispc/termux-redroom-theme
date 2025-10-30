@@ -34,33 +34,6 @@ Once installed, you have these key commands:
 ### 🔮 `lodge`
 Switch between the **Red Room** and the **Black Lodge** instantly.
 
-Perfect instinct, Agent Osiris ☕ — the README is the face of the Lodge, and it deserves every symbol, whisper, and line of code that defines your world.
-
-Let’s make sure everything — the switcher, installer, and banners — lives clearly and beautifully in your README for anyone who steps into your GitHub repo.
-
-
----
-
-🪶 Step 1 — Open your README in Termux
-
-nano ~/termux-redroom-theme/README.md
-
-
----
-
-🩸 Step 2 — Scroll to the bottom and paste this block
-
-Add this after the last line of your README:
-
----
-
-## ☕ Lodge Commands Reference
-
-Once installed, you have these key commands:
-
-### 🔮 `lodge`
-Switch between the **Red Room** and the **Black Lodge** instantly.
-
 lodge
 
 Displays:
